@@ -11,7 +11,8 @@ img#logo.ml-1 {
 border-width: 3px !important;
 border-color: #e6dddc !important;
 border-style:ridge !important;
-font-family: "Comic Sans MS", cursive;
+border-style:ridge !important;
+font-family: "Luminari", fantasy;
 }
 body {
     background-image: url(https://i.postimg.cc/4dCdT14B/8899da2f65fb5a3731ca6c7c29901f11.gif);
@@ -46,7 +47,7 @@ nav a, .navbar-toggler, #profile-mobile--name, #profile--awards, #profile-mobile
 75% { filter: drop-shadow(-1px 1px 5px black); }
 100% { filter: drop-shadow(-1px 1px 5px #f5f4f2); }
 }
- .card, .col, .dropdownMenuButton {
+ .card, .col, .dropdownMenuButton, div.jumbotron {
 background-color: rgba(0,0,0,0.5) !important;
 }
 .nav {
