@@ -1,0 +1,57 @@
+html body #header--icon {
+    display:none !important;
+}
+:root {
+    --primary: #ffffff;
+}
+img#logo.ml-1 {
+    display:none !important;
+}
+.row .d-none .d-md-block, .mt-n3.py-3 {
+border-width: 3px !important;
+border-color: #e6dddc !important;
+border-style:ridge !important;
+font-family: "Comic Sans MS", cursive;
+}
+body {
+    background-image: url(https://i.postimg.cc/4dCdT14B/8899da2f65fb5a3731ca6c7c29901f11.gif);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div#main-content-col, .App-content,  .App-side, #mobile-bottom-navigation-bar, .form-control {
+    background-image: url(https://i.postimg.cc/4dCdT14B/8899da2f65fb5a3731ca6c7c29901f11.gif);
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ #profile--awards, #profile-mobile--awards, #patron, .sub-flair {
+background-image: url(https://i.postimg.cc/4dCdT14B/8899da2f65fb5a3731ca6c7c29901f11.gif);
+filter: drop-shadow(-1px 1px 5px #f5f4f2)
+}
+nav a, .navbar-toggler, #profile-mobile--name, #profile--awards, #profile-mobile--awards, #profile-mobile--pfp, #profile--pfp, #profile--badges, #profile-mobile--badges, .arrow-up, .arrow-down, .nav-item, .score, .card-title, .post-actions, .post-meta {
+    animation-name: pulse !important;
+    animation-duration: 2s !important;
+    animation-iteration-count: infinite !important;
+    animation-direction: alternate !important;
+    animation-timing-function: linear !important;
+
+}
+@keyframes pulse {
+    0% { filter: drop-shadow(-1px 1px 5px #f5f4f2);  }
+    25% { filter: drop-shadow(-1px 1px 5px black); }
+    50% { filter: drop-shadow(-1px 1px 5px #f5f4f2); }
+75% { filter: drop-shadow(-1px 1px 5px black); }
+100% { filter: drop-shadow(-1px 1px 5px #f5f4f2); }
+}
+ .card, .col, .dropdownMenuButton {
+background-color: rgba(0,0,0,0.5) !important;
+}
+.nav {
+filter: drop-shadow(-1px 1px 5px #f5f4f2
+}
+.container-fluid {
+background-image: url(https://i.postimg.cc/4dCdT14B/8899da2f65fb5a3731ca6c7c29901f11.gif);
+}
