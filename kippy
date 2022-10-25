@@ -1,0 +1,58 @@
+html body #header--icon {
+    display:none !important;
+}
+:root {
+    --primary: #ffffff;
+}
+img#logo.ml-1 {
+    display:none !important;
+}
+.row .d-none .d-md-block, .mt-n3.py-3 {
+border-width: 3px !important;
+border-color: #e6dddc !important;
+border-style:ridge !important;
+border-style:ridge !important;
+font-family: "Luminari", fantasy;
+}
+body {
+    background-image: url(https://pomf2.lain.la/f/tmhwp6rq.gif);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div#main-content-col, .App-content,  .App-side, #mobile-bottom-navigation-bar, .form-control {
+    background-image: url(https://pomf2.lain.la/f/tmhwp6rq.gif);
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ #profile--awards, #profile-mobile--awards, #patron, .sub-flair {
+background-image: url(https://pomf2.lain.la/f/tmhwp6rq.gif);
+filter: drop-shadow(-1px 1px 5px #f5f4f2)
+}
+nav a, .navbar-toggler, #profile-mobile--name, #profile--awards, #profile-mobile--awards, #profile-mobile--pfp, #profile--pfp, #profile--badges, #profile-mobile--badges, .arrow-up, .arrow-down, .nav-item, .score, .card-title, .post-actions, .post-meta, .score,.card-title,.sub-flair,#profile-mobile--awards,#profile--awards, #profile-mobile--bio, #profile--bio, #profile-content--nav, #profile-coins-amount-mobile, #profile-bux-amount-mobile, #profile-coins-amount, #profile-bux-amount, #profile--name,  #profile-mobile--joined, #profile-mobile--info--spent,#profile-mobile--info--truescore,#profile-mobile--info--id, #profile-mobile--info--hats-owned, #profile--joined,#profile--info--id,#profile--info--spent,#profile--info--truescore, #profile--info--hats-owned, #profile--info--winnings, #profile-mobile--info--winnings, #profile-mobile--name, .form-inline.search .form-control, .arrow-up, .arrow-down, .post-actions, #profile-mobile--flair {
+    animation-name: pulse !important;
+    animation-duration: 2s !important;
+    animation-iteration-count: infinite !important;
+    animation-direction: alternate !important;
+    animation-timing-function: linear !important;
+
+}
+@keyframes pulse {
+    0% { filter: drop-shadow(-1px 1px 5px #37ff00);  }
+    25% { filter: drop-shadow(-1px 1px 5px #f0f2f0); }
+    50% { filter: drop-shadow(-1px 1px 5px #37ff00); }
+75% { filter: drop-shadow(-1px 1px 5px #f0f2f0); }
+100% { filter: drop-shadow(-1px 1px 5px #37ff00); }
+}
+ .card, .col, .dropdownMenuButton, div.jumbotron {
+background-color: rgba(0,0,0,0.5) !important;
+}
+.nav {
+filter: drop-shadow(-1px 1px 5px #f5f4f2
+}
+.container-fluid {
+background-image: url(https://pomf2.lain.la/f/tmhwp6rq.gif);
+}
