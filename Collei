@@ -1,3 +1,8 @@
+html {
+
+cursor:url('https://i.postimg.cc/rwFrXyvF/szfgn7.png'), auto;
+
+}
 :root {
     --primary: lime;
 }
