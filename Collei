@@ -1,0 +1,21 @@
+:root {
+    --primary: lime;
+}
+#profile-coins-amount, #user-coins-amount {filter: drop-shadow(0px 0px 5px gold); color:green}#profile-bux-amount, #user-bux-amount {filter: drop-shadow(0px 0px 5px lime); color:green;}.srd {display: none;}body {background-color: black!important; text-color: white!important; color:lime;}.comment-box{border-color:green;}.jumbotron-guild{border: solid 2px}::-webkit-scrollbar{width:2px;}::-webkit-scrollbar-track{background:lime;}::-webkit-scrollbar-thumb{background:#ff30b8;}:root {--dark: white;--secondary: white;--white: white;--black: lime;--light: lime;--muted: lime;--gray: #505961;--gray-100: #c9d1d9;--gray-200: #b1bac4;;--gray-300: #505961;;--gray-400: #6e7681;;--gray-500: lime;--gray-600: #000000;--gray-700: lime;--gray-800: #000000;--gray-900: #000000; --background: #ff000000;}a:hover, button:hover, .contain:hover, .form-control:hover {filter:drop-shadow(0px 0px 10px lime)}.btn:hover {color: lime; border-color: lime;}#profile--pronouns {color:lime!important; display: none;}.pronouns {color:lime!important; display: none;}@keyframes rota {100%{transform: rotateZ(360deg)}}.navbar-light {background-color: black!important;}.nav-link{color:lime!important;}.navbar-nav, .nav-link, .fas{color:lime!important;}.dropdown-item:hover{color:lime!important;background-color:lime!important;}.fas:hover {color: lime!important;}.dropdown-item{background-color:black!important;}#profile--awards{background: transparent!important; filter:contrast(999999); animation: shrink 1.2s infinite linear;}@keyframes shrink {50%{transform: scale(0.5, 0.5);}}
+.count {display:none}::selection {background-color: lime !important; color: black!important;}.arrow-up, .arrow-down, .score-up, .comment-actions, .fa-ellipsis-h, .arrow-up::before, .arrow-down::before {color: lime!important;}#profile-mobile--origname {display: none;}#profile-mobile--pronouns {display: none;}@keyframes tdm {50%{filter:contrast(9999) grayscale(1); transform:skew(2deg, 3deg)}}#profile--bio, #profile-mobile--bio {filter: contrast(2)  saturate(22) brightness(2);}#profile--follows-you {color:lime; background-color: lime; border: 2px lime dashed;}.fa-smile-beam {color: lime!important}.fa-file {color: lime!important}#profile--name, #profile-mobile--name, #header--username, #profile--flair, #profile-mobile--flair, #profile--simphate, #profile-mobile--simphate  {animation: na 2s infinite ease-in;} {webkit-text-fill-color: #ff30b8;}@keyframes na{0%{color: #ff30b8}50%{color: lime}100%{color:#ff30b8}}
+.comment, .posts, #userpage-wall {
+border-width: 1px !important;
+border-color: #ff30b8 !important;
+border-style: ridge !important;
+background: black !important;
+}
+ .container-fluid {
+    background-color: black !important;
+}
+body {
+ background-image: url("https://i.postimg.cc/Y0Gkswsb/giphy.gif");
+background-repeat:no-repeat;
+background-size:cover;
+}
+#profile--info--hats-owned, #profile--info--spent {color:lime!important; display: none;}
+#header--icon{content: url("https://i.postimg.cc/Pxt1Ydqp/kisspng-t-shirt-hoodie-vaporwave-sleeve-sweater-retrowave-sun-with-alpha-background-vaporwave-png-5a.png"); height: 40px; width:40px;}
